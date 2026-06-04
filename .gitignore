@@ -1,0 +1,5 @@
+# added all ignored files to .gitignore
+node_modules/
+dist/
+.env
+
